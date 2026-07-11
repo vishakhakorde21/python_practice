@@ -1,2 +1,3 @@
 # python_practice
-Practice python here
+Its me Vishakha. 
+I am going to practice python here
